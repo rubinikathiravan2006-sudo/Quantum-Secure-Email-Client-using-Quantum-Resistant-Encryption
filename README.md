@@ -59,13 +59,6 @@ python app.py
 Screenshot
 
 
-# requirements.txt
-cryptography
-tk
-secure-smtplib
-imap-tools
-email-validator
-
 Folder Structure
 quantum-secure-email-client/
 │
