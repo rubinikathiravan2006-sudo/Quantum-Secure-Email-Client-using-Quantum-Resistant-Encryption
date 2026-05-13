@@ -1,0 +1,5 @@
+cryptography
+tk
+secure-smtplib
+imap-tools
+email-validator
